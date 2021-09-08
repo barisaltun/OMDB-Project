@@ -1,0 +1,26 @@
+@import "../../../../node_modules/antd/dist/antd.css";
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  margin: auto 0;
+}
+.image-container,
+.description-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.ant-layout-footer,
+.ant-layout-header {
+  margin: 20px auto;
+  background-color: #f0f2f5;
+}
+.ant-layout-footer {
+  padding: 24px 30px !important;
+}
+
+body {
+  background-color: #f0f2f5;
+}
