@@ -1,6 +1,6 @@
 # OMDb-Challange
 
-React project uses OMDb api to present data
+React project that uses OMDb api to present data
 
 ## Installing Dependencies
 
